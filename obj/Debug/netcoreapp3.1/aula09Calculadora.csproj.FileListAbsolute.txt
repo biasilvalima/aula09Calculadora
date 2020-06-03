@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\bin\Debug\netcoreapp3.1\aula09Calculadora.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\bin\Debug\netcoreapp3.1\aula09Calculadora.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\bin\Debug\netcoreapp3.1\aula09Calculadora.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\bin\Debug\netcoreapp3.1\aula09Calculadora.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\bin\Debug\netcoreapp3.1\aula09Calculadora.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\bin\Debug\netcoreapp3.1\aula09Calculadora.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\aula09Calculadora\obj\Debug\netcoreapp3.1\aula09Calculadora.genruntimeconfig.cache
